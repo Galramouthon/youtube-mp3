@@ -4,7 +4,6 @@ from PySide6.QtGui import *
 from pytube import YouTube
 import sys
 import os
-import ctypes
 import glob
 
 class MyApp(QWidget):
