@@ -7,7 +7,6 @@ import os
 import ctypes
 import glob
 
-
 class MyApp(QWidget):
 
     def __init__(self):
