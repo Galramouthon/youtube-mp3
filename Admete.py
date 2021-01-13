@@ -18,9 +18,6 @@ class MyApp(QWidget):
         label1.setAlignment(Qt.AlignVCenter)
         label1.move(100, 40)
  
-        self.lbl = QLabel(self)
-        self.lbl.move(60, 40)
-
         self.youtube_url = QLineEdit(self) # 텍스트 
         self.youtube_url.move(20, 100) # 텍스트 위치
 
